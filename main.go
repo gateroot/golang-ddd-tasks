@@ -1,1 +1,0 @@
-package golang_ddd_tasks
